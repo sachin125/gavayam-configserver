@@ -6,11 +6,11 @@
 		<groupId>com.gavayam</groupId>
 		<artifactId>gavayam-bom</artifactId>
 		<version>1.0.0</version>
-		<relativePath>../gavayam-bom/pom.xml</relativePath>
+		<relativePath>../gm-bom/pom.xml</relativePath>
 	</parent>
-	<artifactId>gconfigserver</artifactId>
+	<artifactId>gm-gconfigserver</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>gconfigserver</name>
+	<name>gm-gconfigserver</name>
 	<description>Demo project for Spring Boot</description>
 	<dependencies>
 		<dependency>
